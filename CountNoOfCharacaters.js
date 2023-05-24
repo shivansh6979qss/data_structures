@@ -36,6 +36,7 @@
 //
 // wap to take two array as input and compare if every element of
 //arr1 is equal to the square of each element of an arr2
+// Frequency Counter Approach
 
 const compare = (arr1, arr2) => {
   if (arr1.length !== arr2.length) {

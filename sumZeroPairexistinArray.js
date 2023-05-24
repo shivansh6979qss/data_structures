@@ -25,7 +25,7 @@
 //
 
 //
-//
+//Multiple Pointers
 //Effiecient Solution
 function sumZero(arr) {
   arr.sort();
